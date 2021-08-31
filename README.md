@@ -4,8 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Functionality
 
-In the application, we retrieve the posts from this [DUMMY_API](https://jsonplaceholder.typicode.com/posts) and show a list of posts' (Title, Body, and Post ID). 
+In the application, we retrieve the posts from this [DUMMY_API](https://jsonplaceholder.typicode.com/posts) and show a list of posts' (Title, Body, and Post ID) As shown below. 
 ![alt text](https://github.com/hossamalaa69/posts-task-app/blob/main/1.png?raw=true)
+
+The interface if the internet is slow will show the progressbar is shown below
 ![alt text](https://github.com/hossamalaa69/posts-task-app/blob/main/2.png?raw=true)
 
 
