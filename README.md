@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Posts module React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Functionality
+
+In the application, we retrieve the posts from [dummy_API](https://jsonplaceholder.typicode.com/posts) and reciew their Title, Body, and Post ID. 
+
+## Used Packges
+
+#### Redux, React-Redux, Redux-Thunk: Centralize App Data in One Store
+#### Axios: Third party for APIs requests
+#### Material UI: Third party for UI components
+
+## App Components
+
+#### Navbar.js 
+#### Post.js: Holds the card view that contains the post details
+#### Progressbar.js: Holds the progress circular bar for the loading state
+
+## App Pages
+
+#### Home.js 
+
 
 ## Available Scripts
 
