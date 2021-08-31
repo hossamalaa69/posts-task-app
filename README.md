@@ -8,7 +8,7 @@ In the application, we retrieve the posts from this [DUMMY_API](https://jsonplac
 
 ## Used Packges
 
-### 1- Redux, React-Redux, Redux-Thunk: Centralize App Data in One Store
+### 1- Redux, React-Redux, Redux-Thunk: Centeralize App Data in One Store
 ### 2- Axios: Third party for APIs requests
 ### 3- Material UI: Third party for UI components
 
