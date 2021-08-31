@@ -8,19 +8,19 @@ In the application, we retrieve the posts from this [DUMMY_API](https://jsonplac
 
 ## Used Packges
 
-### Redux, React-Redux, Redux-Thunk: Centralize App Data in One Store
-### Axios: Third party for APIs requests
-### Material UI: Third party for UI components
+### 1- Redux, React-Redux, Redux-Thunk: Centralize App Data in One Store
+### 2- Axios: Third party for APIs requests
+### 3- Material UI: Third party for UI components
 
 ## App Components
 
-#### Navbar.js 
-#### Post.js: Holds the card view that contains the post details
-#### Progressbar.js: Holds the progress circular bar for the loading state
+### 1- Navbar.js 
+### 2- Post.js: Holds the card view that contains the post details
+### 3- Progressbar.js: Holds the progress circular bar for the loading state
 
 ## App Pages
 
-#### Home.js 
+### Home.js 
 
 
 ## Available Scripts
