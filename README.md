@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Functionality
 
-In the application, we retrieve the posts from this [DUMMY_API](https://jsonplaceholder.typicode.com/posts) and reciew their Title, Body, and Post ID. 
+In the application, we retrieve the posts from this [DUMMY_API](https://jsonplaceholder.typicode.com/posts) and show a list of posts' (Title, Body, and Post ID). 
 
 ## Used Packges
 
